@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=Designator117-1
+Removed Pin From Net: NetName=VCC Pin=Designator117-2
+Removed Pin From Net: NetName=NetR1_2 Pin=R2-1
+Removed Pin From Net: NetName=NetP1_1 Pin=R3-1
+Removed Pin From Net: NetName=NetR3_2 Pin=U1-2
+Removed Member From Class: ClassName=3501 Member=JP1
+Added Component: Designator=JP?(header2)
+Added Component: Designator=P4(SMB_V-RJ45)
+Added Component: Designator=R5(08-05)
+Added Component: Designator=U2(DIP8)
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=NetR1_2 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=NetP1_1 Pin=U1-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Change Net Name : Old Net Name=VCC New Net Name=VCC3.3
+Added Pin To Net: NetName=NetJP?_1 Pin=JP?-1
+Added Pin To Net: NetName=NetJP?_1 Pin=JP?-2
+Added Pin To Net: NetName=NetJP?_1 Pin=R1-1
+Added Net: Name=NetJP?_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R2-2
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=U2-2
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R5-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-7
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Net: Name=VCC
+Added Member To Class: ClassName=3501 Member=Component JP? HEADER 2
+Added Member To Class: ClassName=3501 Member=Component P4 SMB
+Added Member To Class: ClassName=3501 Member=Component R5 Res2
+Added Member To Class: ClassName=3501 Member=Component U2 LM311D
+Added Room: Name=3501

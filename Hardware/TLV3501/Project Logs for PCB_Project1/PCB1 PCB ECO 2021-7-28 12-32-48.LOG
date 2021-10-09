@@ -1,0 +1,20 @@
+Added Component: Designator=SP?(M3x4_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "Í­Öù"; VariantName = "[No Variations]"
+Added Component: Designator=SP?(M3x4_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "Í­Öù"; VariantName = "[No Variations]"
+Added Component: Designator=SP?(M3x4_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "Í­Öù"; VariantName = "[No Variations]"
+Added Component: Designator=SP?(M3x4_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOMÃû³Æ"; Value = "Í­Öù"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SP?-1
+Added Pin To Net: NetName=GND Pin=SP?-1
+Added Pin To Net: NetName=GND Pin=SP?-1
+Added Pin To Net: NetName=GND Pin=SP?-1
+Added Member To Class: ClassName=Sheet1 Member=Component SP? M3Í­Öù
+Added Member To Class: ClassName=Sheet1 Member=Component SP? M3Í­Öù
+Added Member To Class: ClassName=Sheet1 Member=Component SP? M3Í­Öù
+Added Member To Class: ClassName=Sheet1 Member=Component SP? M3Í­Öù

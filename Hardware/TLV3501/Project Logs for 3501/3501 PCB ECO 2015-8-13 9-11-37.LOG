@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Member From Class: ClassName=3501 Member=P4
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Added Component: Designator=JP2(header3)
+Change Net Name : Old Net Name=NetJP?_1 New Net Name=NetJP1_1
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=U1-2
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=P1-1
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_3 Pin=U2-2
+Added Net: Name=NetJP2_3
+Added Member To Class: ClassName=3501 Member=Component JP2 HEADER 3
+Added Room: Name=3501

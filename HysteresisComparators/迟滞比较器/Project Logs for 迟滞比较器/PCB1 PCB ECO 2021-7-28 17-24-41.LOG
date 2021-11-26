@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+IN Pin=IN-1
+Removed Pin From Net: NetName=+IN Pin=P1-1
+Removed Pin From Net: NetName=+IN Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=R3-2
+Change Component Designator: OldDesignator=-IN NewDesignator=JP1
+Change Component Designator: OldDesignator=IN NewDesignator=JP2
+Change Component Designator: OldDesignator=OUTPUT NewDesignator=JP3
+Change Net Name : Old Net Name=+IN New Net Name=Net*1_3
+Added Pin To Net: NetName=+IN Pin=JP2-1
+Added Pin To Net: NetName=+IN Pin=P1-1
+Added Pin To Net: NetName=+IN Pin=P2-1
+Added Pin To Net: NetName=+IN Pin=R3-2
+Added Net: Name=+IN

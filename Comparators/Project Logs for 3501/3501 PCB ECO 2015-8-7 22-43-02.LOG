@@ -1,0 +1,52 @@
+Added Component: Designator=C1(0805C)
+Added Component: Designator=C2(1206)
+Added Component: Designator=JP1(header2)
+Added Component: Designator=P1(SMB_V-RJ45)
+Added Component: Designator=P2(SMB_V-RJ45)
+Added Component: Designator=P3(SMB_V-RJ45)
+Added Component: Designator=R1(R-0603)
+Added Component: Designator=R2(R-0603)
+Added Component: Designator=R3(R-0603)
+Added Component: Designator=U1(D8)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_1 Pin=P3-1
+Added Pin To Net: NetName=NetJP1_1 Pin=R1-1
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=R3-1
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R2-2
+Added Pin To Net: NetName=NetP2_1 Pin=U1-6
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=U1-3
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-2
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Net: Name=VCC
+Added Class: Name=3501
+Added Room: Name=3501
